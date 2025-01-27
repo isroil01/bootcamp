@@ -1,1 +1,1 @@
-# bootcamp
+# seollal-bootcamp-base
